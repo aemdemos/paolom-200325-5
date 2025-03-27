@@ -1,0 +1,1988 @@
+{
+  "originUrl": "https://www.thetradedesk.com/",
+  "urls": [
+    {
+      "url": "https://www.thetradedesk.com/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/about-us",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/about-us/our-leadership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/brand-resources",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/366-roas-with-connected-tv-live-sports-streaming-ctv-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/andrex-absorbs-ocados-retail-data-for-realtime-optimisations-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/audi-italia-drives-awareness-among-unique-users-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/audibles-dooh-campaign-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/audiences-go-wild-for-disneys-national-geographic-channel",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/bareminerals-dooh-retargeting-campaign-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/blue-insurance-secures-146-conversions-with-omnichannel-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/boiron-ad-spend-retail-data-and-measurement-solution-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/bosch-ctv-campaign-first-party-data-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/caltrate-boosts-awareness-ctv-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/clarins-omnichannel-2022",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/coca-cola-serves-up-success-with-retail-data-solution",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/colgate-ctv-reach-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/cornetto-scoops-up-brand-sales-lift-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/cupshe-reaches-new-audiences-in-the-u-s-with-data-driven-connected-tv-campaign-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/data-drives-new-growth-for-new-zealand-cricket",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/edifier-amplifies-sales-programmatic-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/eurowings-holidays-dooh-arp-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/fairprice-group-drives-results-with-unified-id-2-0-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/far-eastone-telecommunications-data-driven-omnichannel-campaign-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/ferrero-rocher-ctv-and-olv-programmatic-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/foodpandas-recipe-for-success-with-retail-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/free-now-boosts-market-share-with-multichannel",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/free-now-increases-awareness-with-custom-solutions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/freshdirect-delivers-388-increase-in-conversions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/fruit-of-the-loom-walmart-dsp-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/goodway-group-blue-list-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/govee-shines-with-brilliant-dooh-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/halo-top-the-trade-desk-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/henkel-boosts-perlana-brand-with-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/hennessy-changes-the-game-with-multichannel-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/hennessy-crafts-success-with-omnichannel-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/hennessy-distills-6x-brand-awareness-lift-with-omnichannel-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/how-independent-agency-tombras-fuels-client-success-with-innovation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/how-marriott-rewrote-the-rules-of-retargeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/how-orangetheory-used-podcasts-to-grow-registration-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/how-the-new-york-post-saw-revenue-growth-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/hp-connected-tv-targeting-uid2-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/hp-inc-sees-48-uplift-in-ink-subscribers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/is-connected-tv-the-key-to-innovating-your-marketing-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/jlr-increases-showroom-visits-with-uid2-omichannel-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/johnson-johnson-extends-their-care-to-the-open-internet-reaching-audiences-with-ctv-and-ott",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/kelloggs-boosts-sales-with-retail-data-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/kleinanzeigens-brand-refresh-wins-bid-factor-award",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/kraft-heinz-programmatic-strategy-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/kraft-heinz-reduces-cost-per-reach-with-programmatic-omnichannel-strategy-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/lexus-video-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/lg-display-ctv-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/luxury-escapes-conversion-rates-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/luxury-hotel-wins-best-use-of-identity-uid2-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/lvm-drives-high-kpis-with-cookie-free-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/marriott-omnichannel-marketing-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mcdonalds-extends-their-linear-tv-activity-with-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mcdonalds-saver-menu-sales-soar-with-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mcdonalds-uid2-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mercedes-benz-raises-brand-lift-with-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mercedes-pays-71-less-to-drive-dealership-visits-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mikado-ctv-audiences-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/mondelez-kraft-taps-ott-to-win-during-ramadan-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/niagara-water-boosts-in-store-visits-and-purchases",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/old-navy-gets-an-a-in-back-to-school-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/old-navy-shifts-upfront-spend-expands-reach-live-sports-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/omnichannel-strategy-boosts-candidate-awareness-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/optic-2000-omnichannel-marketing-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/ott-video-completes-the-perfect-media-mix-for-haleon",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/pepsi-drives-incremental-reach-among-gen-z-omnichannel-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/pepsico-boosts-brand-lift-with-programmatic-dooh",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/pepsico-boosts-conversion-with-retail-activation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/pepsico-gets-a-taste-of-success-with-cross-device-targeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/programmatic-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/reckitt-boosts-fan-base-and-sales-with-omnichannel-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/renaults-multichannel-campaign-drives-higher-brand-awareness",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/results-pour-in-for-tiger-beers-dooh-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/rimowa-increases-reach-by-using-omnichannel-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/rossmann-reaches-health-conscious-viewers-via-ctv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/rossmanns-first-party-data-grows-babydream-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/samsung-attribution-online-offline-sales-case-study-canada",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/samsung-custom-targeting-closed-loop-measurement-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/samsung-grows-tv-sales-with-a-cross-device-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/samsung-upgrades-on-impact-with-data-driven-targeting-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/see-how-ctv-and-retail-data-help-double-sales-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/sinyi-realty-brings-multichannel-data-driven-strategy-to-life-using-one-stop-programmatic-shop",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/snooze-match-wood-omnichannel-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/stellantis-suv-launch-reduces-conversion-time-by-63",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/sulwhasoo-boost-conversions-uid2-omnichannel-strategy-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/target-australia-sees-higher-conversion-rate-with-uid2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/telfast-grows-healthier-market-share-with-bvod-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/the-cook-islands-boosts-tourism-with-uid2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/the-glenlivet-distills-brand-awareness-in-hong-kong",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/the-power-of-bvod-boosting-tourism-in-australia-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/the-trade-desk-sees-sharp-increase-in-engagement-with-unified-id-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/the-warehouse-group-omnichannel-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/tiger-beer-crafts-holy-grail-marketing-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/tombras-triples-conversion-lift-with-hbo-max-and-tv-quality-index-the-trade-desk-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/tvqi-helps-virtual-gaming-brand-win-big",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/umi-uses-unified-id-2-0-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/unilever-ben-jerrys-retail-data-measurement-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/unilever-dials-into-global-first-audience-targeting-solution",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/unilever-tastes-success-with-ice-cream-campaign-dooh",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/uscellular-x-harmelin-media-ctv-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/using-omnichannel-neutrogena-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/velotric-cross-platform-audience-strategy-data-driven-targeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/viewsonic-successfully-reaches-gamers-globally-with-holistic-connected-tv-and-over-the-top-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/vilsa-digital-out-of-home-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/vizio-boosts-programmatic-connected-tv-revenue-with-open-path-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/volvo-raises-brand-awareness-in-new-zealand-while-supporting-local-media-and-positive-impact-content",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/whatsapp-sees-uplift-in-reach-in-dooh-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/wyeth-nurtures-brand-growth-with-data-driven-campaign",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/yumis-unpacks-greater-results-with-flybuys-retail-solution",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/case-studies/zespri-digital-media-strategy-retail-data-solution-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/contact-us",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/firstpartydata",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/general-styles",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/glossary",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/autos-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/ctv-audience-trends-spain",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/decisioned-media-india-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/future-of-tv-is-ott-indonesia-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/future-tv-report-bvod-australia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/identity-innovators-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/instant-intelligence-ctv-gen-z-ads",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/open-internet-report-australia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/open-internet-report-canada",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/open-internet-report-india",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/open-internet-report-uk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/open-internet-report-us",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/retail-uk-report-2023",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/sellers-and-publishers-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/insights/the-2024-connected-tv-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/kokai-reach-index",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/california-privacy-disclosures",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/campaign-insertion-order-terms-and-conditions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/china-ad-standards",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/consulting-agreement-terms-and-conditions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/cookie-notice",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/creative-specifications",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/data-supplier-transfer-addendum",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/data-supplier-transfer-agreement-for-nda",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/dpa-data-processing-agreement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/global-reseller-customer-terms-of-use",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/global-supplier-resources",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/inventory-supplier-agreement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/inventory-supplier-agreement-the-uk-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/inventory-supplier-terms-and-conditions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/mutual-nondisclosure-evaluation-agreement-data-partner",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/openpass-privacy-policy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/openpass-terms-of-service",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/openpath-publisher-terms-and-conditions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/openpath-publisher-terms-and-conditions-2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/privacy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/reseller-customer-political-terms-of-use",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/reseller-customer-terms-of-use",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/taxonomy-data-rate-api-terms",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/the-current-terms-of-service",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/the-trade-desk-dtia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/the-trade-desk-openpath-publisher-terms-and-conditions-3",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/the-trade-desk-openpath-publisher-terms-and-conditions-4",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/the-trade-desk-purchasing-terms-and-conditions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/trade-desk-privacy-addendum",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/ttd-content",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/uid2dpa",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/uid2licenses",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/legal/website-privacy-policy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/office-locations",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/advertising-campaign-performance-measurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/ai-artificial-intelligence",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/audience-targeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/enterprise-apis",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/identity-solutions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/audio",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/digital-out-of-home",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/display",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/mobile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/native",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/omnichannel-advertising/video",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/openpath",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/programmatic-buying-solutions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-demand-side-platform/retail-media",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-partners",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-partners/certified-service-partners",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/our-partners/partner-directory",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/applovin-first-mobile-in-app-exchange-to-support-uid2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/awards-and-industry-recognition-for-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/aws-announces-integration-with-unified-id-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/bonbon-integrates-with-openpass-to-empower-publishers-across-the-open-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/business-insider-names-the-trade-desk-one-of-the-hottest-adtech-companies-of-2023",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/cvs-media-exchange-expands-retail-media-capabilities-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/disney-advertising-transformation-accelerates-through-expanded-deal-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/disney-expands-streaming-ad-capabilities-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/diwali-shopping-indian-consumers-ready-to-spend-more",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/ew-scripps-becomes-first-ctv-publisher-to-adopt-openpass",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/excitement-among-indian-shoppers-driving-consumer-intent-to-spend",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/fairprice-group-partners-the-trade-desk-to-drive-closed-loop-measurement-with-retail-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/fox-expands-partnership-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/fubotv-reports-successful-results-for-advertisers-adopting-unified-id-2-0-after-becoming-first-ctv-partner",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/future-of-display-advertising-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/gabe-richman-recognized-business-insider-rising-star-of-adtech",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/global-brands-leading-european-publishers-and-retail-partners-turn-to-european-unified-id-to-maintain-relevant-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/growing-value-on-the-open-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/how-digital-privacy-is-reshaping-the-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/hp-taps-uid2-for-better-ctv-targeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/ian-colley-named-to-adweek-50-list",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/indonesia-ott-consumption-highest-in-southeast-asia-as-growth-hits-40-percent",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/instacart-and-the-trade-desk-partner-to-enhance-programmatic-advertising-with-retail-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jed-dederick-named-to-the-adweek-50-list",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jeff-green-giving-back-in-a-data-driven-way-barrons",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jeff-green-on-building-trust-in-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jeff-green-on-ctv-breaking-walled-gardens",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jeff-green-on-the-current-state-of-the-advertising-industry",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jeff-green-on-the-state-of-play-in-2023",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/jeff-green-on-why-now-is-the-best-time-to-be-in-digital-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/laura-schenkein-the-trade-desk-talks-walled-gardens-the-motley-fool",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/macys-inc-expands-advertising-business-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/nbcuniversal-partners-with-the-trade-desk-for-paris-2024-games",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/netflix-announces-new-partnership-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/new-certified-service-partner-program-for-small-and-medium-sized-businesses",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/new-research-shows-2-in-3-indonesians-to-increase-their-digital-time-on-news-and-websites-ott-and-music-streaming-2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/new-research-shows-9-in-10-indonesians-plan-to-make-a-purchase-during-the-upcoming-ramadan",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/new-research-shows-majority-of-canadian-tv-viewers-are-cordless-as-shift-to-ad-supported-streaming-continues",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/open-internet-india-report-press-release",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/openpath-expands-to-ctv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/pandora-becomes-first-audio-publisher-to-adopt-unified-id-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/paramount-adds-unified-id-2-0-to-scale-identity-on-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/procter-and-gamble-supports-uid2-to-improve-consumer-ad-experience",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/publishers-audience-authentication-strategies-are-put-to-the-test",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/ramadan-shopping-to-be-bigger-this-year-with-two-in-three-indonesians-doing-more-online-shopping",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/reaching-us-voters-in-ctv-more-efficiently-in-2024",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/report-finds-better-ad-recall-on-the-open-internet-in-india",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/retail-media-networks-poised-for-rapid-growth-in-2022-whats-driving-this-50-billion-market",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/retail-media-schwarz-media-and-the-trade-desk-enter-strategic-partnership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/roku-announces-new-partnership-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/roku-enhances-benefits-for-advertisers-with-adoption-of-unified-id-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/samantha-jacobson-highlights-power-galileo-advertisers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/samantha-jacobson-named-to-adage-40-under-40",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/samantha-jacobson-on-the-future-of-identity",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/samantha-jacobson-verna-de-jesus-and-ellen-mulryan-named-top-women-in-media-and-ad-tech",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/sellers-and-publishers-report-2024-open-internet-trends",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/six-questions-for-verna-de-jesus-vp-of-ctv-and-audio-at-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/solimar-named-a-2022-sales-and-marketing-technology-awards-winner",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/southeast-asia-moving-towards-a-new-model-of-tv-consumption-as-more-than-one-in-three-viewers-stream-ott",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/spotify-launching-an-ad-exchange-will-partner-with-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-guardian-partners-with-the-trade-desk-to-enhance-its-digital-advertising-experience-through-openpath",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-open-internet-gains-prominence-reached-almost-600-million-in-india-2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-open-internet-reaches-over-190-million-consumers-across-indonesia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-power-of-the-open-internet-with-ian-colley",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-acquires-sincera",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-adds-more-publishers-to-openpath-enabling-advertisers-to-directly-access-premium-publisher-inventory",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-among-fortunes-100-best-workplaces-for-millennials",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-and-albertsons-media-collective-pioneer-new-approach-to-retail-media-on-open-internet-and-beyond",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-and-circana-create-new-partnership-to-bolster-retail-data-for-marketers-in-australia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-and-liveramp-to-lead-industry-effort-to-bring-new-privacy-first-interoperable-id-solution-to-meet-emerging-requirements-in-europe",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-and-walmart-connect-will-test-integration-of-unified-id-2-0-into-the-walmart",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-announces-galileo-a-new-approach-for-activating-advertiser-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-announces-key-leadership-appointments",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-announces-salesforce-cdp-now-able-to-activate-unified-id-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-announces-ventura",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-appoints-alex-kayyal-to-board-of-directors",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-appoints-dr-bill-simmons-as-vice-president-of-product",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-appoints-rose-huskey-senior-vice-president-south-asia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-becomes-one-of-the-first-media-buying-platforms-to-achieve-soc-1-and-soc-2-compliance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-ceo-google-should-exit-open-web",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-contributes-unified-id-2-0-source-code-to-pram-technical-working-group-via-iab-tech-lab-for-open-source-collaboration",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-expands-certified-service-partner-program-with-ventura-growth",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-is-acquiring-advertising-metadata-startup-sincera",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-is-building-a-ctv-operating-system-called-ventura",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-jaime-nash-named-ad-age-40-under-40",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-launches-its-first-indian-market-engineering-hub-in-bengaluru",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-launches-kokai-a-new-media-buying-platform-that-brings-the-full-power-of-ai-to-digital-marketing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-named-one-of-the-best-workplaces-in-technology-2023-by-fortune",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-named-to-yello-top-100-intern-programs-across-the-u-s",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-tokopedia-pioneer-new-advertising-approach-to-retail-media-open-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/the-trade-desk-trish-frohman-senior-vice-president-business-development-north-america",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/ttd-integrates-with-adobe-real-time-customer-data-platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/ttds-ellen-mulryan-named-as-one-of-insiders-2023-rising-stars-of-adtech",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/two-in-three-indonesians-set-to-watch-the-most-anticipated-football-tournament-in-the-world",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/us-news-world-report-names-the-trade-desk-to-2023-best-media-companies",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/vivek-kundra-to-join-the-trade-desk-as-chief-operating-officer",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/vox-media-launches-concert-ssp-with-ttd",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/press-room/will-doherty-appeared-on-the-beeler-cast",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/2023-product-updates-in-review",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/2024-ctv-guide-for-non-political-advertisers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-reasons-the-demise-of-third-party-cookies-is-a-good-thing-for-marketers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-tips-for-maximizing-campaign-seeds-in-kokai",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-tools-for-pharma-and-healthcare-brands",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-ways-to-create-effective-omnichannel-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-ways-to-empower-koa-your-ai-co-pilot",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-ways-to-harness-behavioral-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-ways-to-harness-the-power-of-data-driven-advertising-in-an-uncertain-economy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/3-ways-to-leverage-data-in-pharma-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/4-ctv-strategies-to-help-you-crush-q4",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/4-reasons-why-pharmas-shift-to-connected-tv-is-finally-happening",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/4-ways-miq-defines-connected-tv-success",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/4-ways-to-get-the-most-out-of-your-omnichannel-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/5-ways-to-make-the-most-out-of-health-care-and-pharma-programmatic-advertising-in-2023",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/6-ctv-features-that-can-help-you-drive-more-value-today",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/7-reasons-to-switch-to-an-all-in-one-platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/amplify-your-brand-with-dooh-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/best-practices-for-better-conversion-lift",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/best-practices-for-media-mix-models",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/best-practices-for-uploading-your-ctv-creative",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/best-practices-to-boost-your-retail-measurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/brand-lift-best-practices",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/brands-around-the-world-find-value-in-retail-data-infographic",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/buying-media-programmatically-is-more-efficient",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/campaign-performance-tips-decision-power-relevance-metrics-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/checklist-for-optimizing-campaigns-olympics-season-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/christmas-in-july-preparing-for-holiday-activations-with-our-new-suite-of-e-commerce-products",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connect-your-ads-to-audience-online-browsing-behavior-with-inferred-brand-intent",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connected-tv-and-offline-measurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connected-tv-audience-targeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connected-tv-outperforms-user-generated-content",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connected-tv-resource-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connected-tv-unlock-the-potential-of-audience-centric-measurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/connecting-the-dots-on-your-ctv-advertising-with-content-signals",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/cpg-buying-habits-in-todays-economic-environment",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/create-a-winning-live-sports-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ctv-audience-accelerator-best-practices",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ctv-surges-during-2024-election",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ctv-tips-live-sports",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ctv-tv-advertising-strategy-europe",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/data-resource-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/debunking-digital-advertisings-biggest-myths",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/decisioned-media-buys-tips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/demystifying-in-app-measurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/digital-audio-advertising-myths-debunked",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/digital-out-of-home-strategies",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/discover-benefits-ai-powered-retail-data-europe",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/disney-netflix-roku-maximize-reach-with-ctv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/drive-more-valuable-reach-across-the-open-internet-kokai",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/drive-relevance-with-multi-element-bidding-tips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/edge-academy-what-are-seeds-and-how-to-use-them",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/end-of-year-media-planning-checklist-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/enhancing-identity-at-scale-with-id5",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/euid-enabling-personalization-relevance-advertising-video-how-to",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/euid-myths-customer-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/everything-you-should-know-about-forward-24",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/five-steps-to-a-more-maintainable-first-party-data-strategy-with-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/foodpanda-raises-brand-awareness-with-programmatic-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ford-shifts-to-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/forward-23-always-on-7-key-ctv-takeaways-advertisers-should-know",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/four-benefits-of-omnichannel-advertising-that-you-might-be-missing-out-on",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/four-identity-strategies-to-prepare-for-a-cookie-less-tomorrow",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/four-tips-on-how-to-approach-a-more-data-driven-upfronts",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/fwd25-recap-the-rise-of-the-premium-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/get-local-incremental-reach-insights-across-ctv-and-linear-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/get-more-from-first-party-data-on-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/getting-to-know-your-first-party-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/giving-a-cookie-free-future-some-context",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/go-audience-first-in-your-dooh-campaigns-with-arp",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/gsk-drives-incremental-reach-in-india",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-identity-graphs-are-built-the-present-and-the-future",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-major-brands-saw-success-with-kokai-infographic",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-orangetheory-used-podcasts-to-grow-registration-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-political-agencies-can-use-campaign-budget-features-to-help-deliver-on-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-retail-data-is-benefitting-non-endemic-brands",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-savvy-advertisers-are-navigating-the-evolving-retail-landscape",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-the-trade-desk-gains-greater-insight-into-the-power-of-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-activate-retail-data-across-the-funnel",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-boost-campaign-performance-with-ai-in-kokai",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-future-proof-your-identity-approach",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-make-decisioned-media-buying-work-for-you",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-maximize-retail-data-this-holiday-season",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-optimise-your-digital-out-of-home-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-optimize-your-ai-marketing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-reach-gen-z-with-in-game-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-strengthen-identity-foundation-omnichannel-campaigns-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/how-to-take-advantage-context-based-strategies-in-your-next-campaigns",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/iabm-improving-b2b-marketing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ideal-frequency-fine-tuning-for-optimal-results",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ideal-frequency-how-to-evaluate-effectiveness",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ideal-frequency-optimization",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/identity-resource-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/in-case-you-missed-it-takeaways-from-iabs-state-of-data-town-hall",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/increasing-campaign-efficiency-with-interactive-video-from-wootag",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/insights-for-multichannel-ctv-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/introducing-kokai-10-takeaways-for-advertisers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/introducing-kokai-albertsons-media-collective-retail-media",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/introducing-openpath-a-simpler-more-direct-connection",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/introducing-the-programmatic-table",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/jump-start-your-business-with-our-apis",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/kokai-fireside-chat-with-cvs-and-um-ipg",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/kokai-programmatic-media-buying-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/learn-how-retail-data-can-help-you-grow-your-brand",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/learn-how-to-center-your-campaigns-around-audiences-kokai",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/learn-more-about-the-retail-sales-index",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/live-sports-pacing-advertising",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/make-better-campaign-decisions-with-your-enhanced-ai-co-pilot",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/managing-supply-chain-issues-with-dco-marketplace",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/marketers-guide-to-testing-unified-id-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/maximise-the-impact-of-your-first-party-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/maximize-the-potential-of-first-party-data-with-crm-onboarding",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/maximize-your-impact-on-ctv-with-tv-quality-index",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/mcdonalds-new-approach-to-streaming-measurement",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/measure-your-incremental-reach-on-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/measuring-brand-sentiment-on-the-open-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/measuring-connected-tv-more-effectively",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/measuring-success-in-digital-advertising-2020-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/media-traders-how-kokai-is-driving-campaign-success-recap",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/mediadonuts-lowers-retargeting-cpa-by-82-with-koa-retargeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/mobile-ott-fact-sheet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/new-research-shows-2-in-3-indonesians-to-increase-their-digital-time-on-news-and-websites-ott-and-music-streaming",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/new-research-shows-importance-of-streaming-and-timing-to-reach-uae-residents-during-ramadan",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ocado-partners-with-the-trade-desk-to-give-brands-access-to-its-retail-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/omd-and-mcdonalds-drive-offline-sales-during-lunar-new-year",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/omd-germany-increases-operational-efficiencies",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/omnichannel",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/omnichannel-a-big-win-for-political-advertisers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/only-focusing-on-price-could-cost-your-brand",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/open-internet-australian-omnichannel-campaign-case-study",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/ott-advertising-in-southeast-asia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/our-platform-resource-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/planning-holiday-advertising-strategy-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/premium-vs-user-generated-content-and-why-it-matters-for-advertisers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/product-foundations-news-navigator",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/programmatic-vs-direct-ios",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/reach-new-audiences-in-europe-with-connected-tv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/reach-new-audiences-in-hong-kong-with-mytv-super-and-the-trade-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/reach-new-consumers-with-dollar-generals-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/reaching-the-right-audience-with-retail-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/recent-upgrades-to-audience-predictor-aim-to-solve-two-primary-challenges-for-marketers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/research-finds-omnichannel-campaigns-outperform-video",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/retail-data-playbook",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/retail-data-real-business-results-video",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/retail-data-tips-video",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/retail-resource-desk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/rokus-mixed-media-model-approach-to-ctv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/sea-your-first-party-data-strategy-roadmap",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/sellers-and-publishers-500-best-practices",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/set-up-for-success-with-tv-quality-index",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/sheraton-hotels-and-resorts-reaches-new-customers-in-china",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/spanish-auto-brand-seat-increases-foot-traffic-to-dealerships",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/spend-smarter-in-2023-marketing-ad-buying",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/starhub-lowers-cpa-and-drives-faster-conversions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/streaming-sets-a-new-high-bar-for-live-sports",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/take-campaign-measurement-up-a-notch-in-3-steps",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/takeaways-from-ad-ages-panel-on-digital-commerce-media",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/target-specific-audiences-with-digital-out-of-home",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-5-best-ways-to-win-a-bid-factor-award",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-future-of-addressability-part-3-in-control-of-identity",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-method-miq-uses-to-drive-better-outcomes-without-requiring-manual-optimization",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-resource-desk-connect-better-with-connected-tv-video-tips",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-resource-desk-introducing-galileo-video-3-steps",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-boosts-reach-with-omnichannel-ads",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-has-been-recognized-as-a-2022-customers-choice-for-ad-tech-on-gartner-peer-insights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-named-a-leader-in-the-forrester-wave-omnichannel-demand-side-platforms-q3-2023",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-named-a-leader-in-the-gartner-magic-quadrant-for-ad-tech-for-the-third-consecutive-year",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-named-leader-in-quadrant-2023-spark-matrix-ad-tech-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-named-leading-global-dsp-by-frost-sullivan",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-partners-with-ocado-to-pioneer-a-new-approach-to-retail-media-on-the-open-internet",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-trade-desk-recognized-in-gartners-2023-ad-tech-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-true-power-of-buying-programmatic",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/the-why-behind-kokai-media-buying",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/three-tips-to-help-you-get-the-most-operational-efficiency-from-the-solimar-platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/traders-guide-to-efficient-campaign-management",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/under-the-hood-hps-data-driven-approach-to-connected-tv-upfronts",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/understanding-the-shift-to-streaming-in-australia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/unilever-smashes-campaign-goals-and-benchmarks-while-reaching-new-high-value-audiences",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/unlock-the-power-of-our-quality-reach-index",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/up-level-your-brand-with-the-trade-desk-apis",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/upfront-activation-guide",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/upfront-activation-guide-dnu",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/voted-a-2023-customers-choice-in-gartner",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/walmart-b2s-insights",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/watch-the-future-of-premium-inventory-webinar-forrester",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/we-value-your-feedback",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/what-is-geo-interest-expansion-on-connected-tv-ctv",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/what-is-openpath",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/what-is-prism-and-how-can-it-boost-relevance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/what-is-sellers-publishers-500-plus",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/what-is-the-sellers-and-publishers-500-video",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/why-advertisers-dont-need-to-rely-on-cookies-video",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/yata-pioneers-digital-out-of-home-in-hong-kong-with-surprising-results",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/your-first-party-data-strategy-roadmap",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/your-guide-to-omnichannel-advertising-by-channel",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/resources/zendesk-increases-brand-impact-with-a-programmatic-omnichannel-strategy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/test-page-with-full-width-hero",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/trust",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/trust/report-a-vulnerability",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/trust/security",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/trust/security-bulletins",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/unified-id-solution-2-0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.thetradedesk.com/ventura-streaming-tv-os",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
